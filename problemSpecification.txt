@@ -1,1 +1,1 @@
-Write a java program to print a large diamond with a smaller diamond inside using the charecher "1"
+Write a java program to print a pattern consisting of a samll diamond inside another larger diamond using the charecher "1"
