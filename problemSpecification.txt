@@ -1,0 +1,1 @@
+Write a java program to print a large diamond with a smaller diamond inside using the charecher "1"
